@@ -4,6 +4,11 @@ width: 350px;
 }
 #pics-contianer{
   background-color: orange;
-  background-repeat: no-repeat;
-  background-size: auto;
+}
+#travelbg{
+background-color: pink;
+}
+#travelpics img{
+  height: 350px;
+  width: 350px;
 }
