@@ -12,3 +12,23 @@ background-color: pink;
   height: 350px;
   width: 350px;
 }
+#contactbg {
+background-color: grey;
+}
+#activitiesbg {
+  background-color: skyblue;
+}
+#activities-img img{
+  height: 350px;
+  width: 350px;
+}
+#homepagebg{
+  background-color: lightyellow;
+}
+#accommodationsbg{
+  background-color: purple;
+}
+#imgroom img{
+  height: 350px;
+  width: 350px;
+}
